@@ -1,0 +1,248 @@
+{
+  "studying": [
+    {
+      "timestamp": "2025/3/30 下午 10:30:02",
+      "grade": 113,
+      "degree": "master",
+      "title": "碩一",
+      "name": "楊啟弘",
+      "thesis": "",
+      "email": "young900221@gmail.com",
+      "img": "assets/img/member/113楊啟弘",
+      "SocialLink": "www.linkedin.com/in/yangchihung",
+      "GithubLink": "https://github.com/YANGCHIHUNG",
+      "blinks": "",
+      "description": "研究強化式學習與知識蒸餾的整合應用，同時學習嵌入式系統並應用，測試模型效能。",
+      "keyword": [
+        "Reinforcement Learning",
+        "Knowledge distillation"
+      ]
+    },
+    {
+      "timestamp": "2025/3/29 下午 7:14:14",
+      "grade": 113,
+      "degree": "master",
+      "title": "在校生",
+      "name": "簡紹鈞",
+      "thesis": "",
+      "email": "chienshaochun0421@gmail.com",
+      "img": "assets/img/member/113簡紹鈞.png",
+      "SocialLink": "",
+      "GithubLink": "https://github.com/chienshaochun/",
+      "blinks": "",
+      "description": "目前在做diffusion model在NILM上模擬數據配合federated learning的研究",
+      "keyword": [
+        "NILM",
+        "LA"
+      ]
+    },
+    {
+      "timestamp": "2025/3/28 下午 1:14:52",
+      "grade": 113,
+      "degree": "master",
+      "title": "碩一",
+      "name": "吳楚熙",
+      "thesis": "",
+      "email": "alsk789789@gmail.com",
+      "img": "assets/img/member/113吳楚熙.png",
+      "SocialLink": "",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "",
+      "keyword": []
+    },
+    {
+      "timestamp": "2025/3/27 下午 3:51:30",
+      "grade": 113,
+      "degree": "master",
+      "title": "碩一",
+      "name": "陳信宇",
+      "thesis": "",
+      "email": "andy0413@hotmail.com.tw",
+      "img": "assets/img/member/113陳信宇.png",
+      "SocialLink": "",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "",
+      "keyword": [
+        "wsn"
+      ]
+    },
+    {
+      "timestamp": "2025/3/27 下午 2:25:56",
+      "grade": 113,
+      "degree": "master",
+      "title": "碩一",
+      "name": "劉冠伯",
+      "thesis": "",
+      "email": "g113056116@smail.nchu.edu.tw",
+      "img": "assets/img/member/113劉冠伯.png",
+      "SocialLink": "https://www.linkedin.com/in/aidenliu",
+      "GithubLink": "https://github.com/waterbear-tw",
+      "blinks": "",
+      "description": "Engaged in reinforcement learning and resource allocation control in 6G networks.",
+      "keyword": []
+    },
+    {
+      "timestamp": "2025/3/28 下午 12:18:12",
+      "grade": 112,
+      "degree": "master",
+      "title": "碩二",
+      "name": "陳宥云",
+      "thesis": "",
+      "email": "frenzyyo222@gmail.com",
+      "img": "assets/img/member/112陳宥云",
+      "SocialLink": "",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "Focused on researching lightweight image recognition models(Green Learning) and applying them in combination with ECG for practical applications.",
+      "keyword": [
+        "Green Learning",
+        "ECG",
+        "Machine Learning"
+      ]
+    },
+    {
+      "timestamp": "2025/3/27 下午 4:02:10",
+      "grade": 112,
+      "degree": "master",
+      "title": "在校生碩二",
+      "name": "陳珮禎",
+      "thesis": "",
+      "email": "penny5462254@gmail.com",
+      "img": "assets/img/member/112陳珮禎.png",
+      "SocialLink": "",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "Combining federated learning with Bayesian optimization to predict appliance-level energy usage from aggregated power data.",
+      "keyword": [
+        "NILM",
+        "FL"
+      ]
+    },
+    {
+      "timestamp": "2025/3/27 下午 2:52:16",
+      "grade": 112,
+      "degree": "master",
+      "title": "碩二",
+      "name": "羅泓喆",
+      "thesis": "",
+      "email": "g112056002@mail.nchu.edu.tw",
+      "img": "assets/img/member/112羅泓喆.png",
+      "SocialLink": "",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "",
+      "keyword": [
+        "lidar",
+        "點雲分割"
+      ]
+    },
+    {
+      "timestamp": "2025/3/27 下午 2:00:05",
+      "grade": 112,
+      "degree": "master",
+      "title": "碩二",
+      "name": "陳昱丞",
+      "thesis": "",
+      "email": "scdev0210@gmail.com",
+      "img": "assets/img/member/陳昱丞.png",
+      "SocialLink": "https://www.linkedin.com/in/yu-cheng-chen-460aa1189",
+      "GithubLink": "https://github.com/sc0210",
+      "blinks": "https://sc0210.netlify.app/",
+      "description": "Focused on developing Metaheuristic algorithm to solve coverage scheduling and routing optimization problem in WSN.",
+      "keyword": [
+        "wsn",
+        "algorithm"
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "timestamp": "2025/3/28 下午 5:24:54",
+      "grade": 111,
+      "degree": "master",
+      "title": "碩三",
+      "name": "林承億",
+      "thesis": "",
+      "email": "linchenggt@gmail.com",
+      "img": "assets/img/member/請用 email 跟我索取謝謝",
+      "SocialLink": "",
+      "GithubLink": "https://github.com/RainBowT0506",
+      "blinks": "https://hackmd.io/@RainBowT",
+      "description": "",
+      "keyword": []
+    },
+    {
+      "timestamp": "2025/3/27 下午 10:00:27",
+      "grade": 110,
+      "degree": "master",
+      "title": "已畢業 : 助理工程師",
+      "name": "吳允呈",
+      "thesis": "",
+      "email": "940235carl@gmail.com",
+      "img": "assets/img/member/110yuncheng.png",
+      "SocialLink": "吳允呈",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "我是吳允呈，awinlab 110學年畢業生，研究領域為點雲配準、啟發式演算法。",
+      "keyword": [
+        "PointClound",
+        "Transformer"
+      ]
+    },
+    {
+      "timestamp": "2025/3/28 上午 9:19:38",
+      "grade": 108,
+      "degree": "master",
+      "title": "碩六",
+      "name": "蔡宜全",
+      "thesis": "",
+      "email": "duncan5090@gmail.com",
+      "img": "assets/img/member/duncan.png",
+      "SocialLink": "",
+      "GithubLink": "",
+      "blinks": "",
+      "description": "",
+      "keyword": []
+    },
+    {
+      "timestamp": "2025/5/15 下午 9:51:50",
+      "grade": 107,
+      "degree": "phd",
+      "title": "博士班",
+      "name": "張維晏",
+      "thesis": "",
+      "email": "keoinn@gmail.com",
+      "img": "assets/img/member/107張維晏.png",
+      "SocialLink": "Line: keoinn",
+      "GithubLink": "https://github.com/keoinn",
+      "blinks": "https://keoinn.github.io/",
+      "description": "目前任職於新創公司擔任RD，同時也興大創產學院擔任講師，教授軟工、協作、雲端軟體開發。",
+      "keyword": [
+        "AI_APP_Design",
+        "Metaheuristic",
+        "WSNs"
+      ]
+    },
+    {
+      "timestamp": "2025/3/27 下午 6:37:04",
+      "grade": 102,
+      "degree": "master",
+      "title": "鮮速冷鏈科技 經理",
+      "name": "郭庭均",
+      "thesis": "",
+      "email": "j033312003@gmail.com",
+      "img": "assets/img/member/https://photos.app.goo.gl/uXSeiqQAUUiUe7AZ8",
+      "SocialLink": "https://www.facebook.com/wuguofish",
+      "GithubLink": "https://github.com/wuguofish",
+      "blinks": "",
+      "description": "",
+      "keyword": [
+        "Web APP",
+        "Android APP",
+        "Data Mining"
+      ]
+    }
+  ]
+}
